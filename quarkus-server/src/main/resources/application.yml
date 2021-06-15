@@ -1,0 +1,7 @@
+quarkus:
+  mongodb:
+    connection-string: mongodb://localhost:27017
+    database: cloud-native-microservice-db
+  container-image:
+    build: true
+    push: false

@@ -37,18 +37,6 @@
   <dependencies>
     <dependency>
       <groupId>io.quarkus</groupId>
-      <artifactId>quarkus-mongodb-client</artifactId>
-    </dependency>
-    <dependency>
-      <groupId>io.quarkus</groupId>
-      <artifactId>quarkus-rest-client</artifactId>
-    </dependency>
-    <dependency>
-      <groupId>io.quarkus</groupId>
-      <artifactId>quarkus-kafka-client</artifactId>
-    </dependency>
-    <dependency>
-      <groupId>io.quarkus</groupId>
       <artifactId>quarkus-kotlin</artifactId>
     </dependency>
     <dependency>
@@ -59,14 +47,10 @@
       <groupId>io.quarkus</groupId>
       <artifactId>quarkus-resteasy-jackson</artifactId>
     </dependency>
-    <dependency>
-      <groupId>io.quarkus</groupId>
-      <artifactId>quarkus-smallrye-jwt</artifactId>
-    </dependency>
-    <dependency>
-      <groupId>io.quarkus</groupId>
-      <artifactId>quarkus-kubernetes-config</artifactId>
-    </dependency>
+<!--    <dependency>-->
+<!--      <groupId>io.quarkus</groupId>-->
+<!--      <artifactId>quarkus-kubernetes-config</artifactId>-->
+<!--    </dependency>-->
     <dependency>
       <groupId>io.quarkus</groupId>
       <artifactId>quarkus-kubernetes</artifactId>

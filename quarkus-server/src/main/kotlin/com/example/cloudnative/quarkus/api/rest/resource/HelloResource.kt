@@ -31,5 +31,4 @@ class HelloResource {
         var greeting: String? = null
     )
 
-
 }
